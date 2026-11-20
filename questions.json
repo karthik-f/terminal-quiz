@@ -1,0 +1,57 @@
+[
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "O2", "CO2", "NaCl"],
+    "answer": 0
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Mercury"],
+    "answer": 1
+  },
+  {
+    "question": "How many continents are there on Earth?",
+    "options": ["5", "6", "7", "8"],
+    "answer": 2
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "answer": 3
+  },
+  {
+    "question": "In Python, which keyword is used to define a function?",
+    "options": ["func", "def", "function", "lambda"],
+    "answer": 1
+  },
+  {
+    "question": "What is 9 x 8?",
+    "options": ["72", "81", "64", "56"],
+    "answer": 0
+  },
+  {
+    "question": "Which data structure uses FIFO (first in, first out)?",
+    "options": ["Stack", "Queue", "Tree", "Graph"],
+    "answer": 1
+  },
+  {
+    "question": "Who wrote the play Romeo and Juliet?",
+    "options": ["Charles Dickens", "Jane Austen", "William Shakespeare", "Mark Twain"],
+    "answer": 2
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "HyperText Markup Language",
+      "HighText Machine Language",
+      "Hyperlink and Text Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which number is a prime number?",
+    "options": ["21", "27", "29", "33"],
+    "answer": 2
+  }
+]
